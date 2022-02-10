@@ -73,10 +73,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center "  >
                 <img  width="48%"
-                src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
-                alt="sarthakbakshii" />  &nbsp; &nbsp; 
-        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
-                alt="sarthakbakshii" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=alakmodak99&show_icons=true&theme=dark&hide_border=true&locale=en"
+                alt="alakmodak99" />  &nbsp; &nbsp; 
+        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alakmodak99&theme=dark&hide_border=true"
+                alt="alakmodak99" /></p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/alakmodak99/github-readme-activity-graph"><img alt="sarthakbakshii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthakbakshii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/alakmodak99/github-readme-activity-graph"><img alt="alakmodak99's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alakmodak99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
