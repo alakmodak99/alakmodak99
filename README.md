@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
         applications and solutions using JavaScript, ReactJS.</h3>
 
 <p align="center"> <img
-                src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat"
+                src="https://komarev.com/ghpvc/?username=alakmodak99&label=Profile%20views&color=0e75b6&style=flat"
                 alt="alakmodak99" /> </p>
                 
 <!-- <p align="center"> <img
