@@ -21,13 +21,12 @@ You can click the Preview link to take a look at your changes.
                 alt="alakmodak99" /> </p> -->
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
-- 🌱 &nbsp; Learning more about AWS, MongoDB and Typscript.
-- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
+- 🌱 &nbsp; Learning more about AWS, MongoDB and Typescript.
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Open source Projects<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
 
 - 📫 How to reach me **alakmodak99@gmail.com**
 
-<!-- - 🔗 Personal Website **https://vaibhavraj.netlify.app/** -->
 
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
