@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="alakmodak99" /> </p> -->
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
+- 🌱 I’m currently **MERN FULL STACK DEVELOPEMNT** at Weaddo.
 - 🌱 &nbsp; Learning more about AWS, MongoDB and Typescript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Open source Projects<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
